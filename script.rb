@@ -30,5 +30,5 @@ File.open("file2.html","r"){|file|
     end
 }
 
-`rm file2.html file1.html #{addressJV}`
+`rm file2.html file1.html `
 
